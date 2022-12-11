@@ -32,10 +32,10 @@ This app provides prospective customers with an online book store in which to br
 <br />
 
 <h3>Stack</h3>
-Angular 14
-<a href="https://angular.io/docs"> Offical Documentation </a><span> | </span>
-<em>Angular is an application-design framework and development platform for creating efficient and sophisticated single-page apps.</em>
-Firebase
+<strong>Angular 14</strong>
+<a href="https://angular.io/docs"> Offical Documentation </a><span> | </span><br />
+<em>Angular is an application-design framework and development platform for creating efficient and sophisticated single-page apps.</em><br />
+<strong>Firebase</strong><br />
 <a href="https://firebase.google.com/docs"> Offical Documentation </a>
 <em>Firebase provides a cloud-based real-time database that allows developers to store and sync data across multiple devices.</em>
 <br />
