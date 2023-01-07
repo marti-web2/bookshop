@@ -1,4 +1,5 @@
 <h1>Booktopia</h1>
+<img src="https://mybooktopia.com/wp-content/uploads/2019/11/booktopialogofinal.png" alt="Booktopia logo" width="400" height="400" />
 <p>Welcome to Booktopia, an online bookstore app built with Angular 14 that gives prospective customers a place to browse and purchase titles from some of their favorite authors. This app provides a convenient and easy way to shop for books online, offering a wide selection of titles from a variety of authors.</p>
 <h2>Getting Started</h2>
 <p>To get started with Booktopia, follow these steps:</p>
